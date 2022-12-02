@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 4340
+chmod 4340 Hello
